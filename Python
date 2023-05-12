@@ -1,0 +1,12 @@
+class MinhaClasse:
+    def __init__(self, propriedade1, propriedade2):
+        self.propriedade1 = propriedade1
+        self.propriedade2 = propriedade2
+    
+    def metodo1(self):
+        # código do método aqui
+        pass
+    
+    def metodo2(self):
+        # código do método aqui
+        pass
